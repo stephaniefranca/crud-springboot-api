@@ -12,7 +12,7 @@ import br.com.springboot.curso_jdev.model.Usuario;
 import br.com.springboot.curso_jdev.repository.UsuarioRepository;
 
 @RestController
-@RequestMapping("/api")
+
 public class GreetingsController {
     
     @Autowired
