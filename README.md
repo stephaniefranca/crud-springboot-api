@@ -3,7 +3,6 @@
 <p>Projeto de CRUD usando Spring Boot RESP API com Javascript e Bootstrap !!
 Montei uma aplicação básica para gerenciar o cadastro de usuários, permitindo operações simples como criar, ler, pesquisar, atualizar e excluir. Foi uma experiência muito boa para aprender sobre APIs REST, integração com o banco de dados PostgreSQL e começar a entender as melhores práticas de desenvolvimento.</p>
 <h2>Imagens do projeto</h2>
-
 <div>
     <img length="300" width="500" src="https://github.com/user-attachments/assets/ae42bc25-b48c-4585-a73f-3110f64abf51"/>
 </div> 
